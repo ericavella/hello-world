@@ -1,0 +1,68 @@
+h1{
+	color: navy;
+	text-align: center;
+	font-family: "Comic Sans MS", "Comic Sans", Serif;
+}
+body{
+	background-image: url("https://www.jokertattoo.net/images/cc_colors_lt_brown.jpg");
+}
+p {
+	text-align: center;
+	color: black;
+	font-family: "Comic Sans MS", "Comic Sans", Serif;
+}
+h2{
+	color: navy;
+	text-align: center;
+	font-family: "Comic Sans MS", "Comic Sans", Serif;
+}
+h3{
+	text-align: center;
+	color: black;
+	font-family: "Comic Sans MS", "Comic Sans", Serif;
+}
+h4{
+	text-align: center;
+	color: black;
+	font-family: "Comic Sans MS", "Comic Sans", Serif;
+}
+
+.matt {
+	margin: auto;
+	max-height: 15%;
+	max-width: 15%;
+}
+
+.casey {
+	margin: auto;
+	height: 15%;
+	width: 15%;
+}
+
+.jade {
+	margin: auto;
+	height: 15%;
+	width: 15%;
+}
+
+.sara {
+	margin: auto;
+	height: 15%;
+	width: 15%;
+}
+
+.dnla {
+	margin: auto;
+	height: 15%;
+	width: 15%;
+}
+
+.erica {
+	margin: auto;
+	height: 15%;
+	width: 15%;
+}
+
+.description img{
+	margin: auto;
+}
